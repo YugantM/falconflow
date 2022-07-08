@@ -3,7 +3,6 @@
 
 class falcon:
 
-
     # constructor to initiate the parameters
     def __init__(self,struct = {}):
 
